@@ -1,0 +1,6 @@
+pandas
+requests
+openai
+python-dotenv
+newsapi-python
+watchdog
