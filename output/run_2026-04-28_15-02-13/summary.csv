@@ -1,0 +1,9 @@
+tier,score,name,company,city,state,email,has_draft,top_insight
+A,94,Robert Lee,AvalonBay Communities,Arlington,VA,rlee@avalonbay.com,yes,Corporate email domain (avalonbay.com)
+A,90,John Smith,Greystar,Houston,TX,john.smith@greystar.com,yes,Corporate email domain (greystar.com)
+A,75,Mike Johnson,Cardinal Group Companies,Denver,CO,mjohnson@cardinalgroup.com,yes,Corporate email domain (cardinalgroup.com)
+B,61,Sarah Chen,GoldOller Real Estate,Philadelphia,PA,sarah@goldoller.com,yes,Corporate email domain (goldoller.com)
+B,50,Lisa Wang,Random Tech Inc,Austin,TX,lwang@randomstartup.io,yes,Corporate email domain (randomstartup.io)
+C,45,Anna Martinez,Small Property Mgmt,Boise,ID,anna@smallproperty.net,no,Corporate email domain (smallproperty.net)
+C,40,Emily Davis,Davis Property LLC,Bellevue,WA,emily.davis@gmail.com,no,Company name suggests property/real estate business
+C,37,Tom Brown,Dominium,Plymouth,MN,tom@dominium.com,no,Corporate email domain (dominium.com)

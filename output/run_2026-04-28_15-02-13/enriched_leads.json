@@ -1,0 +1,752 @@
+[
+  {
+    "lead": {
+      "name": "John Smith",
+      "email": "john.smith@greystar.com",
+      "company": "Greystar",
+      "address": "750 Bering Dr",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77057",
+      "country": "USA"
+    },
+    "datausa": {
+      "population": {
+        "level_used": "Place",
+        "geo_key": "16000US4835000",
+        "year": 2024,
+        "value": 2328253.0,
+        "place": "Houston, TX",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US4835000",
+          "Place": "Houston, TX",
+          "Year": 2024,
+          "Population": 2328253.0
+        }
+      },
+      "median_income": {
+        "level_used": "Place",
+        "geo_key": "16000US4835000",
+        "year": 2022,
+        "median_income": 60440.0
+      },
+      "housing_median_value": {
+        "level_used": "Place",
+        "geo_key": "16000US4835000",
+        "year": 2024,
+        "value": 277800.0,
+        "place": "Houston, TX",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US4835000",
+          "Place": "Houston, TX",
+          "Year": 2024,
+          "Property Value": 277800.0
+        }
+      },
+      "tenure": {
+        "level_used": "Place",
+        "geo_key": "16000US4835000",
+        "year": 2022,
+        "owner_households": 376562.0,
+        "renter_households": 520948.0,
+        "total_households": 897510.0,
+        "renter_rate": 0.5804369867745206
+      }
+    },
+    "news": {
+      "city_links": [
+        "https://www.businessinsider.com/best-cities-for-college-graduates-2026",
+        "http://www.noemamag.com/the-architecture-of-cooperation",
+        "https://www.mentalfloss.com/geography/maps/states-young-adults-live-most-with-parents",
+        "https://www.nextbigfuture.com/2026/04/housing-supply-and-demand.html",
+        "https://www.cnn.com/2026/03/28/us/tsa-workers-dhs-shutdown-missed-paychecks"
+      ],
+      "company_links": [
+        "https://www.globenewswire.com/news-release/2026/04/07/3269578/0/en/A-New-Take-on-Apartment-Living-Rises-Above-Murrieta-at-Montessa-Heights.html",
+        "http://commercialobserver.com/2026/04/calif-multifamily-affinius-construction-finance-quadreal/",
+        "http://commercialobserver.com/2026/04/nuveen-coral-landings-iii-sterling-organization/",
+        "https://www.globenewswire.com/news-release/2026/04/01/3266703/0/en/Bevi-Rolls-Out-The-Per-My-Last-Email-Collection.html",
+        "https://therealdeal.com/miami/2026/04/07/kimco-greystar-terreno-quest-workspaces-score-tenants/"
+      ]
+    },
+    "wiki": {
+      "wiki_found": true,
+      "title": "Greystar",
+      "extract": "Greystar Real Estate Partners is an international real estate developer and manager based in the United States. As of 2023, Greystar had over $76 billion in gross assets under management, and operated in 17 countries.",
+      "is_property_related": true,
+      "company_size_tier": "large",
+      "url": "https://en.wikipedia.org/wiki/Greystar"
+    },
+    "score": {
+      "score": 90,
+      "tier": "A",
+      "breakdown": {
+        "icp": 30,
+        "market": 30,
+        "engagement": 20,
+        "geography": 10
+      },
+      "notes": [
+        "Corporate email domain (greystar.com)",
+        "Wikipedia: large property company (Greystar)",
+        "High renter market: 58%",
+        "Large market: 2,328,253 residents",
+        "Median income $60,440 \u2014 strong rental affordability",
+        "5 recent company news mentions",
+        "Active local housing news (5 articles)",
+        "TX \u2014 major EliseAI market"
+      ],
+      "disqualifiers": []
+    }
+  },
+  {
+    "lead": {
+      "name": "Sarah Chen",
+      "email": "sarah@goldoller.com",
+      "company": "GoldOller Real Estate",
+      "address": "1500 Walnut St",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19102",
+      "country": "USA"
+    },
+    "datausa": {
+      "population": {
+        "level_used": "Place",
+        "geo_key": "16000US4260000",
+        "year": 2024,
+        "value": 1579706.0,
+        "place": "Philadelphia, PA",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US4260000",
+          "Place": "Philadelphia, PA",
+          "Year": 2024,
+          "Population": 1579706.0
+        }
+      },
+      "median_income": {
+        "level_used": "Place",
+        "geo_key": "16000US4260000",
+        "year": 2022,
+        "median_income": 57537.0
+      },
+      "housing_median_value": {
+        "level_used": "Place",
+        "geo_key": "16000US4260000",
+        "year": 2024,
+        "value": 243100.0,
+        "place": "Philadelphia, PA",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US4260000",
+          "Place": "Philadelphia, PA",
+          "Year": 2024,
+          "Property Value": 243100.0
+        }
+      },
+      "tenure": {
+        "level_used": "Place",
+        "geo_key": "16000US4260000",
+        "year": 2022,
+        "owner_households": 344149.0,
+        "renter_households": 314980.0,
+        "total_households": 659129.0,
+        "renter_rate": 0.47787307188729367
+      }
+    },
+    "news": {
+      "city_links": [
+        "https://www.businessinsider.com/charts-show-how-highest-lowest-earners-spend-money-2026-3",
+        "https://www.mentalfloss.com/geography/maps/states-young-adults-live-most-with-parents",
+        "https://finance.yahoo.com/economy/policy/articles/homebuying-america-want-just-got-190500827.html",
+        "http://deadline.com/2026/03/robert-de-niro-jane-fonda-bruce-springsteen-no-kings-1236768478/",
+        "https://www.inman.com/2026/04/17/multiple-offers-still-common-in-mid-atlantic-despite-market-cooling/"
+      ],
+      "company_links": []
+    },
+    "wiki": {
+      "wiki_found": false,
+      "title": null,
+      "extract": null,
+      "is_property_related": false,
+      "company_size_tier": "unknown",
+      "url": null
+    },
+    "score": {
+      "score": 61,
+      "tier": "B",
+      "breakdown": {
+        "icp": 15,
+        "market": 26,
+        "engagement": 10,
+        "geography": 10
+      },
+      "notes": [
+        "Corporate email domain (goldoller.com)",
+        "Moderate renter market: 48%",
+        "Large market: 1,579,706 residents",
+        "Median income $57,537 \u2014 strong rental affordability",
+        "Active local housing news (5 articles)",
+        "PA \u2014 major EliseAI market"
+      ],
+      "disqualifiers": []
+    }
+  },
+  {
+    "lead": {
+      "name": "Mike Johnson",
+      "email": "mjohnson@cardinalgroup.com",
+      "company": "Cardinal Group Companies",
+      "address": "1550 Wewatta St",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80202",
+      "country": "USA"
+    },
+    "datausa": {
+      "population": {
+        "level_used": "Place",
+        "geo_key": "16000US0820000",
+        "year": 2024,
+        "value": 718877.0,
+        "place": "Denver, CO",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US0820000",
+          "Place": "Denver, CO",
+          "Year": 2024,
+          "Population": 718877.0
+        }
+      },
+      "median_income": {
+        "level_used": "Place",
+        "geo_key": "16000US0820000",
+        "year": 2022,
+        "median_income": 85853.0
+      },
+      "housing_median_value": {
+        "level_used": "Place",
+        "geo_key": "16000US0820000",
+        "year": 2024,
+        "value": 616000.0,
+        "place": "Denver, CO",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US0820000",
+          "Place": "Denver, CO",
+          "Year": 2024,
+          "Property Value": 616000.0
+        }
+      },
+      "tenure": {
+        "level_used": "Place",
+        "geo_key": "16000US0820000",
+        "year": 2022,
+        "owner_households": 159483.0,
+        "renter_households": 163481.0,
+        "total_households": 322964.0,
+        "renter_rate": 0.5061895443454998
+      }
+    },
+    "news": {
+      "city_links": [
+        "https://www.vox.com/future-perfect/485295/austin-national-rents-declining-yimby",
+        "https://www.slashfilm.com/2135752/paradise-season-2-finale-real-life-conspiracies/",
+        "https://www.yankodesign.com/2026/04/24/mohab-altus-quick-deploy-hardshell-rooftop-tent-turns-any-rugged-truck-into-comfy-all-season-camping-rig/",
+        "https://www.yankodesign.com/2026/04/05/60hz-thermal-and-4k-night-vision-in-one-device-spectraeyes-basically-gives-you-supermans-vision/",
+        "https://www.houzz.com/magazine/zoned-outdoor-rooms-maximize-a-430-square-foot-backyard-stsetivw-vs~184295353"
+      ],
+      "company_links": [
+        "https://www.theatlantic.com/ideas/2026/04/silicon-valley-catholicism-ai-leo/686948/",
+        "https://www.on3.com/rivals/news/notre-dame-football-recruiting-fighting-irish-on-the-hunt-for-another-top-10-class/",
+        "https://fortune.com/2026/04/16/pope-leo-xiv-a-handful-of-tyrants-are-ravaging-earth-with-war-and-exploitation/",
+        "https://justcreative.com/ux-ui-branding/",
+        "https://www.globenewswire.com/news-release/2026/04/27/3282056/0/en/Global-Compression-Garments-and-Stockings-Market-Size-Share-Worth-USD-5-10-Billion-by-2035-at-a-4-8-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segm.html"
+      ]
+    },
+    "wiki": {
+      "wiki_found": false,
+      "title": null,
+      "extract": null,
+      "is_property_related": false,
+      "company_size_tier": "unknown",
+      "url": null
+    },
+    "score": {
+      "score": 75,
+      "tier": "A",
+      "breakdown": {
+        "icp": 15,
+        "market": 30,
+        "engagement": 20,
+        "geography": 10
+      },
+      "notes": [
+        "Corporate email domain (cardinalgroup.com)",
+        "High renter market: 51%",
+        "Large market: 718,877 residents",
+        "Median income $85,853 \u2014 strong rental affordability",
+        "5 recent company news mentions",
+        "Active local housing news (5 articles)",
+        "CO \u2014 major EliseAI market"
+      ],
+      "disqualifiers": []
+    }
+  },
+  {
+    "lead": {
+      "name": "Emily Davis",
+      "email": "emily.davis@gmail.com",
+      "company": "Davis Property LLC",
+      "address": "789 Pine St",
+      "city": "Bellevue",
+      "state": "WA",
+      "zip": "98004",
+      "country": "USA"
+    },
+    "datausa": {
+      "population": {
+        "level_used": "Place",
+        "geo_key": "16000US5305210",
+        "year": 2024,
+        "value": 151847.0,
+        "place": "Bellevue, WA",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US5305210",
+          "Place": "Bellevue, WA",
+          "Year": 2024,
+          "Population": 151847.0
+        }
+      },
+      "median_income": {
+        "level_used": "Place",
+        "geo_key": "16000US5305210",
+        "year": 2022,
+        "median_income": 149551.0
+      },
+      "housing_median_value": {
+        "level_used": "Place",
+        "geo_key": "16000US5305210",
+        "year": 2024,
+        "value": 1340300.0,
+        "place": "Bellevue, WA",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US5305210",
+          "Place": "Bellevue, WA",
+          "Year": 2024,
+          "Property Value": 1340300.0
+        }
+      },
+      "tenure": {
+        "level_used": "Place",
+        "geo_key": "16000US5305210",
+        "year": 2022,
+        "owner_households": 31452.0,
+        "renter_households": 29430.0,
+        "total_households": 60882.0,
+        "renter_rate": 0.4833941066325022
+      }
+    },
+    "news": {
+      "city_links": [
+        "https://www.dailymail.com/news/article-15762317/woke-east-village-new-york-mayor-mamdani-homeless.html",
+        "https://nypost.com/2026/04/07/us-news/mamdani-opens-luxe-241-million-bellevue-hospital-ward-for-inmates-as-he-pushes-to-close-rikers/",
+        "https://www.nybooks.com/articles/2026/05/14/the-rise-and-fall-of-david-adjaye-princeton-collects/",
+        "https://nypost.com/2026/04/09/us-news/majority-of-voters-say-nyc-on-wrong-under-mamdani-poll/",
+        "https://www.thestranger.com/guest-editorial/2026/03/27/80541132/not-the-next-williamsburg-the-next-bellevue"
+      ],
+      "company_links": [
+        "https://finance.yahoo.com/sectors/technology/articles/house-tilting-furious-las-vegas-160300674.html",
+        "https://www.insurancejournal.com/news/midwest/2026/04/20/866603.htm",
+        "https://nypost.com/2026/04/20/health/new-jersey-neighborhood-cancer-cluster-includes-28-on-one-street/"
+      ]
+    },
+    "wiki": {
+      "wiki_found": false,
+      "title": null,
+      "extract": null,
+      "is_property_related": false,
+      "company_size_tier": "unknown",
+      "url": null
+    },
+    "score": {
+      "score": 40,
+      "tier": "C",
+      "breakdown": {
+        "icp": 15,
+        "market": 20,
+        "engagement": 20,
+        "geography": 10
+      },
+      "notes": [
+        "Company name suggests property/real estate business",
+        "Moderate renter market: 48%",
+        "Mid-size market: 151,847 residents",
+        "Premium market: median income $149,551",
+        "3 recent company news mentions",
+        "Active local housing news (5 articles)",
+        "WA \u2014 major EliseAI market"
+      ],
+      "disqualifiers": [
+        "Personal email domain (not a B2B prospect)"
+      ]
+    }
+  },
+  {
+    "lead": {
+      "name": "Robert Lee",
+      "email": "rlee@avalonbay.com",
+      "company": "AvalonBay Communities",
+      "address": "4040 Wilson Blvd",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22203",
+      "country": "USA"
+    },
+    "datausa": {
+      "population": {
+        "level_used": "Place",
+        "geo_key": "16000US5103000",
+        "year": 2024,
+        "value": 236254.0,
+        "place": "Arlington, VA",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US5103000",
+          "Place": "Arlington, VA",
+          "Year": 2024,
+          "Population": 236254.0
+        }
+      },
+      "median_income": {
+        "level_used": "Place",
+        "geo_key": "16000US5103000",
+        "year": 2022,
+        "median_income": 137387.0
+      },
+      "housing_median_value": {
+        "level_used": "Place",
+        "geo_key": "16000US5103000",
+        "year": 2024,
+        "value": 895000.0,
+        "place": "Arlington, VA",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US5103000",
+          "Place": "Arlington, VA",
+          "Year": 2024,
+          "Property Value": 895000.0
+        }
+      },
+      "tenure": {
+        "level_used": "Place",
+        "geo_key": "16000US5103000",
+        "year": 2022,
+        "owner_households": 46842.0,
+        "renter_households": 64045.0,
+        "total_households": 110887.0,
+        "renter_rate": 0.5775699586065093
+      }
+    },
+    "news": {
+      "city_links": [
+        "https://www.businessinsider.com/leaving-florida-moving-out-prices-traffic-affordability-2026-2",
+        "https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421",
+        "https://www.arlnow.com/2026/04/10/debrief-4102026/",
+        "https://www.dailymail.com/real-estate/article-15756483/home-sales-collapse-economy.html"
+      ],
+      "company_links": [
+        "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_818c9a9a-d280-40dc-9672-ff31fab7939f",
+        "https://www.barchart.com/story/news/1097982/buy-the-dip-these-3-over-100-stocks-just-hit-new-52-week-lows",
+        "https://www.barchart.com/story/news/1508778/s-p-500-and-nasdaq-post-record-highs-on-tech-stock-strength-and-iran-diplomacy",
+        "http://commercialobserver.com/2026/04/reits-stock-performance-iran-2026/"
+      ]
+    },
+    "wiki": {
+      "wiki_found": true,
+      "title": "AvalonBay Communities",
+      "extract": "AvalonBay Communities, Inc. is a publicly traded real estate investment trust that invests in apartments.",
+      "is_property_related": true,
+      "company_size_tier": "large",
+      "url": "https://en.wikipedia.org/wiki/AvalonBay_Communities"
+    },
+    "score": {
+      "score": 94,
+      "tier": "A",
+      "breakdown": {
+        "icp": 40,
+        "market": 24,
+        "engagement": 20,
+        "geography": 10
+      },
+      "notes": [
+        "Corporate email domain (avalonbay.com)",
+        "Company name suggests property/real estate business",
+        "Wikipedia: large property company (AvalonBay Communities)",
+        "High renter market: 58%",
+        "Mid-size market: 236,254 residents",
+        "Premium market: median income $137,387",
+        "4 recent company news mentions",
+        "Active local housing news (4 articles)",
+        "VA \u2014 major EliseAI market"
+      ],
+      "disqualifiers": []
+    }
+  },
+  {
+    "lead": {
+      "name": "Lisa Wang",
+      "email": "lwang@randomstartup.io",
+      "company": "Random Tech Inc",
+      "address": "500 Tech Way",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "country": "USA"
+    },
+    "datausa": {
+      "population": {
+        "level_used": "Place",
+        "geo_key": "16000US4805000",
+        "year": 2024,
+        "value": 979539.0,
+        "place": "Austin, TX",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US4805000",
+          "Place": "Austin, TX",
+          "Year": 2024,
+          "Population": 979539.0
+        }
+      },
+      "median_income": {
+        "level_used": "Place",
+        "geo_key": "16000US4805000",
+        "year": 2022,
+        "median_income": 86556.0
+      },
+      "housing_median_value": {
+        "level_used": "Place",
+        "geo_key": "16000US4805000",
+        "year": 2024,
+        "value": 555300.0,
+        "place": "Austin, TX",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US4805000",
+          "Place": "Austin, TX",
+          "Year": 2024,
+          "Property Value": 555300.0
+        }
+      },
+      "tenure": {
+        "level_used": "Place",
+        "geo_key": "16000US4805000",
+        "year": 2022,
+        "owner_households": 188029.0,
+        "renter_households": 235050.0,
+        "total_households": 423079.0,
+        "renter_rate": 0.5555699999290913
+      }
+    },
+    "news": {
+      "city_links": [
+        "https://www.businessinsider.com/best-cities-for-college-graduates-2026",
+        "https://www.businessinsider.com/how-your-city-trying-make-life-affordable-buses-rent-childcare-2026-4",
+        "https://www.dezeen.com/2026/04/16/icon-firmah-architecture-waco-surf-desperado-texas/",
+        "https://www.vox.com/future-perfect/485295/austin-national-rents-declining-yimby",
+        "https://www.dezeen.com/2026/04/12/usa-adu-round-up/"
+      ],
+      "company_links": [
+        "https://gizmodo.com/trumps-fed-pick-is-knee-deep-in-tech-and-crypto-investments-2000746508",
+        "https://www.macrumors.com/2026/04/02/apple-wwdc-2026-invites-lottery-winners/",
+        "http://deadline.com/2026/04/news-documentary-emmy-nominations-2026-1236783050/",
+        "https://siliconangle.com/2026/04/09/refiant-raises-5m-refine-ai-models-nature-inspired-energy-efficiency/",
+        "https://economictimes.indiatimes.com/news/international/us/why-us-stock-market-dow-jones-sp-500-nasdaq-on-the-move-today-dow-jumps-over-400-points-nasdaq-rallies-1-sp-500-climbs-as-ai-stocks-rebound-and-earnings-buzz-builds/articleshow/130445363.cms"
+      ]
+    },
+    "wiki": {
+      "wiki_found": true,
+      "title": "University of Radom",
+      "extract": "Kazimierz Pu\u0142aski University of Radom is a Polish public university in Radom. It was the biggest university of the former Radom Voivodeship. The university was established in 1950 as a School of Engineering of General Technical Organization. For more than 50 years its name was often changed. The University of Technology and Humanities in Radom comprises 8 faculties, 4 of which are of technical profile: Faculty of Mechanical Engineering, Faculty of Transport and Electrical Engineering, Faculty of Materials Science, Technology and Design, and Faculty of Computer Science and Mathematics, whereas Faculty of Art, Faculty of Economics, Faculty of Philology and Pedagogics, and Faculty of Health Sciences and Physical Culture represent the Humanities. Students may choose from 27 degree courses and more than 100 specializations (majors). Many of them are unique in Poland. The university also provides 6 doctoral programmes. The ECTS system is fully implemented and used in each Faculty. Thus, students of the university have the possibility to study abroad at different European universities within the 3 Erasmus Programme. The study period at a foreign university is fully recognized at the Technical University of Radom. The university also accepts foreign students within the Erasmus Programme, too. Students can join students organizations, self-government, any of 36 student scientific associations, sports clubs and the horse-riding club.",
+      "is_property_related": false,
+      "company_size_tier": "unknown",
+      "url": "https://en.wikipedia.org/wiki/University_of_Radom"
+    },
+    "score": {
+      "score": 50,
+      "tier": "B",
+      "breakdown": {
+        "icp": 10,
+        "market": 30,
+        "engagement": 20,
+        "geography": 10
+      },
+      "notes": [
+        "Corporate email domain (randomstartup.io)",
+        "High renter market: 56%",
+        "Large market: 979,539 residents",
+        "Median income $86,556 \u2014 strong rental affordability",
+        "5 recent company news mentions",
+        "Active local housing news (5 articles)",
+        "TX \u2014 major EliseAI market"
+      ],
+      "disqualifiers": [
+        "Company 'University of Radom' is not property-related per Wikipedia"
+      ]
+    }
+  },
+  {
+    "lead": {
+      "name": "Tom Brown",
+      "email": "tom@dominium.com",
+      "company": "Dominium",
+      "address": "2905 Northwest Blvd",
+      "city": "Plymouth",
+      "state": "MN",
+      "zip": "55441",
+      "country": "USA"
+    },
+    "datausa": {
+      "population": {
+        "level_used": "Place",
+        "geo_key": "16000US2751730",
+        "year": 2024,
+        "value": 79220.0,
+        "place": "Plymouth, MN",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US2751730",
+          "Place": "Plymouth, MN",
+          "Year": 2024,
+          "Population": 79220.0
+        }
+      },
+      "median_income": {
+        "level_used": "Place",
+        "geo_key": "16000US2751730",
+        "year": 2022,
+        "median_income": 130131.0
+      },
+      "housing_median_value": {
+        "level_used": "Place",
+        "geo_key": "16000US2751730",
+        "year": 2024,
+        "value": 491200.0,
+        "place": "Plymouth, MN",
+        "zip": null,
+        "raw_row": {
+          "Place ID": "16000US2751730",
+          "Place": "Plymouth, MN",
+          "Year": 2024,
+          "Property Value": 491200.0
+        }
+      },
+      "tenure": {
+        "level_used": "Place",
+        "geo_key": "16000US2751730",
+        "year": 2022,
+        "owner_households": 24413.0,
+        "renter_households": 8314.0,
+        "total_households": 32727.0,
+        "renter_rate": 0.25404100589727135
+      }
+    },
+    "news": {
+      "city_links": [
+        "https://www.bbc.com/news/articles/c30r44d3v40o",
+        "https://bringatrailer.com/listing/1973-plymouth-duster-22/",
+        "https://bringatrailer.com/listing/1967-plymouth-satellite-12/",
+        "https://www.businessinsider.com/multigenerational-living-build-wealth-elder-care-2026-4"
+      ],
+      "company_links": []
+    },
+    "wiki": {
+      "wiki_found": true,
+      "title": "Dominium",
+      "extract": "Dominium means \"dominion; control; ownership\".",
+      "is_property_related": false,
+      "company_size_tier": "unknown",
+      "url": "https://en.wikipedia.org/wiki/Dominium"
+    },
+    "score": {
+      "score": 37,
+      "tier": "C",
+      "breakdown": {
+        "icp": 10,
+        "market": 12,
+        "engagement": 10,
+        "geography": 5
+      },
+      "notes": [
+        "Corporate email domain (dominium.com)",
+        "Premium market: median income $130,131",
+        "Active local housing news (4 articles)"
+      ],
+      "disqualifiers": [
+        "Company 'Dominium' is not property-related per Wikipedia"
+      ]
+    }
+  },
+  {
+    "lead": {
+      "name": "Anna Martinez",
+      "email": "anna@smallproperty.net",
+      "company": "Small Property Mgmt",
+      "address": "123 Elm St",
+      "city": "Boise",
+      "state": "ID",
+      "zip": "83702",
+      "country": "USA"
+    },
+    "datausa": {
+      "population": null,
+      "median_income": null,
+      "housing_median_value": null,
+      "tenure": null
+    },
+    "news": {
+      "city_links": [
+        "https://www.idahostatesman.com/news/politics-government/state-politics/article315288283.html",
+        "https://fortune.com/2026/04/11/housing-prices-by-city-2026/",
+        "https://www.globenewswire.com/news-release/2026/04/20/3277378/0/en/Five-Star-Painting-of-Boise-Expands-Service-Area-Across-the-Treasure-Valley-to-Meet-Surging-Homeowner-Demand.html",
+        "https://www.espn.com/nfl/draft2026/story/_/id/48357403/2026-nfl-draft-all-tape-team-best-prospects-every-position-nussmeier-bernard-barham",
+        "https://www.essentiallysports.com/ncaa-college-football-news-longtime-ucf-football-staffer-steps-down-on-sunday-deshon-lawrence-jr/"
+      ],
+      "company_links": [
+        "http://twistedsifter.com/2026/04/little-girl-is-scared-when-downstairs-neighbor-knocks-on-the-floor-so-her-dad-refuses-to-try-to-be-quiet-during-the-day-anymore/",
+        "https://ipwatchdog.com/2026/04/27/scotus-denies-petition-challenging-monetary-sanctions-counsel-bad-faith/"
+      ]
+    },
+    "wiki": {
+      "wiki_found": false,
+      "title": null,
+      "extract": null,
+      "is_property_related": false,
+      "company_size_tier": "unknown",
+      "url": null
+    },
+    "score": {
+      "score": 45,
+      "tier": "C",
+      "breakdown": {
+        "icp": 25,
+        "market": 0,
+        "engagement": 15,
+        "geography": 5
+      },
+      "notes": [
+        "Corporate email domain (smallproperty.net)",
+        "Company name suggests property/real estate business",
+        "2 company news mention(s)",
+        "Active local housing news (5 articles)"
+      ],
+      "disqualifiers": []
+    }
+  }
+]
