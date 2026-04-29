@@ -1,9 +1,9 @@
-name,email,company,address,city,state,country
-John Smith,john.smith@greystar.com,Greystar,750 Bering Dr,Houston,TX,USA
-Sarah Chen,sarah@goldoller.com,GoldOller Real Estate,1500 Walnut St,Philadelphia,PA,USA
-Mike Johnson,mjohnson@cardinalgroup.com,Cardinal Group Companies,1550 Wewatta St,Denver,CO,USA
-Emily Davis,emily.davis@gmail.com,Davis Property LLC,789 Pine St,Bellevue,WA,USA
-Robert Lee,rlee@avalonbay.com,AvalonBay Communities,4040 Wilson Blvd,Arlington,VA,USA
-Lisa Wang,lwang@randomstartup.io,Random Tech Inc,500 Tech Way,Austin,TX,USA
-Tom Brown,tom@dominium.com,Dominium,2905 Northwest Blvd,Plymouth,MN,USA
-Anna Martinez,anna@smallproperty.net,Small Property Mgmt,123 Elm St,Boise,ID,USA
+name,email,company,address,city,state,zip,country
+John Smith,john.smith@greystar.com,Greystar,750 Bering Dr,Houston,TX,77057,USA
+Sarah Chen,sarah@goldoller.com,GoldOller Real Estate,1500 Walnut St,Philadelphia,PA,19102,USA
+Mike Johnson,mjohnson@cardinalgroup.com,Cardinal Group Companies,1550 Wewatta St,Denver,CO,80202,USA
+Emily Davis,emily.davis@gmail.com,Davis Property LLC,789 Pine St,Bellevue,WA,98004,USA
+Robert Lee,rlee@avalonbay.com,AvalonBay Communities,4040 Wilson Blvd,Arlington,VA,22203,USA
+Lisa Wang,lwang@randomstartup.io,Random Tech Inc,500 Tech Way,Austin,TX,78701,USA
+Tom Brown,tom@dominium.com,Dominium,2905 Northwest Blvd,Plymouth,MN,55441,USA
+Anna Martinez,anna@smallproperty.net,Small Property Mgmt,123 Elm St,Boise,ID,83702,USA

@@ -736,14 +736,17 @@ COMPANY BACKGROUND (from Wikipedia, may be empty):
 {wiki_extract or '(no Wikipedia info available)'}
 
 REQUIREMENTS:
-- Maximum 80 words, 3-4 sentences
-- Reference ONE specific data point from the insights as the hook
-- Translate that data point into an implied operational pain (e.g. "high renter rate \
-usually means the leasing team drowns in after-hours inquiries")
-- Do NOT pitch features. Mention EliseAI in one sentence as the role we play.
-- End with a soft CTA like "worth a quick chat?" — never "book a 30-min call"
-- Avoid these phrases: "I hope this finds you well", "I came across", "I wanted to reach out"
-- Output ONLY the email body. No subject line, no signature, no preamble."""
+- Start with a subject line (6-10 words, specific to the hook, not generic)
+- Then the email body: 3-4 sentences, max 80 words
+- Use ONE specific data point from the insights as the hook
+- Translate that into an implied operational pain
+- Mention EliseAI in one sentence as the role we play
+- End with a soft CTA like "worth a quick chat?"
+
+Format:
+Subject: <line>
+
+<body>"""
 
     response = get_openai_client().chat.completions.create(
         model="gpt-4o",
